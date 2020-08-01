@@ -1,10 +1,10 @@
-package com.ginseng.mall.management;
+package com.genSing.mall.management;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ManagermentApplicationTests {
+class ManagementApplicationTests {
 
     @Test
     void contextLoads() {
